@@ -11,7 +11,7 @@ Installation:
 
 Run:
 
-    nodemon product.server.js
+    node product.server.js
 
 Features:
 
